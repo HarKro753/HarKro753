@@ -2,7 +2,7 @@
 - 👀 I’m interested in Maschine Learning, Python, Web and App development
 - 🌱 I’m currently learning Python and studying at University of Hamburg
 - 💞️ I’m looking to collaborate on nothing currently but you can dm me
-- 📫 How to reach me krogharro@gmail.com but you can also text me +49 17645736893
+- 📫 How to reach me krogharro@gmail.com
 - 😄 Pronouns: male
 - ⚡ Fun fact: ...
 
