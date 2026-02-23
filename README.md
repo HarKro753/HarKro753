@@ -16,6 +16,7 @@
 ## Current Projects
 
 - **[Elevenstoic](https://elevenstoic.app)** — Stoic motivation app for iOS and Android, built with a major creator partner
+- **[opencode-rules-hub](https://github.com/HarKro753/opencode-rules-hub)** — Self-hosted platform for centralized coding rules management — server, dashboard, and OpenCode plugin
 - **[opencode-agent-context](https://github.com/HarKro753/opencode-agent-context)** — OpenCode plugin that gives your coding agent persistent, language-aware memory
 - **[react-video-editor](https://github.com/HarKro753/react-video-editor)** — Open source video editor built with Remotion
 - **[MyPrompts](https://github.com/HarKro753/MyPrompts)** — Curated collection of agent skills and coding patterns extracted from real codebases
